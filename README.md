@@ -1,5 +1,5 @@
 # riva
-riva is a all in one reconance tool
+riva is a all in one reconnaissance tool
 
 REQUIREMENTS
 
